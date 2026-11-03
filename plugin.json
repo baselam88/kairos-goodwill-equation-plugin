@@ -1,0 +1,17 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "author": {
+    "name": "KAIROS AI Systems"
+  },
+  "description": "Diagnoses a client relationship against the goodwill balance: value delivered minus price charged, moved by every interaction.",
+  "keywords": [
+    "equation",
+    "goodwill",
+    "kairos",
+    "small business"
+  ],
+  "license": "MIT",
+  "name": "kairos-goodwill-equation",
+  "repository": "https://github.com/baselam88/kairos-goodwill-equation-plugin",
+  "version": "0.1.0"
+}
